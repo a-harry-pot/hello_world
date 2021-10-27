@@ -1,2 +1,3 @@
 # hello_world
-A test repository
+
+Hello this is harry here. Hope i can become a master of programming!
